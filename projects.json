@@ -132,19 +132,18 @@
             "https://github.com/gluster/test",
             "https://github.com/gluster/vagrant",
             "https://github.com/gluster/xglfs",
-            "https://github.com/purpleidea/puppet-gluster.git",
-            "https://github.com/pblcache/pblcache.git",
-            "https://github.com/spajus/libgfapi-ruby.git",
-            "https://github.com/joejulian/glusterfs-splitbrain.git",
-            "https://github.com/justinclift/glusterflow.git",
-            "https://github.com/pcuzner/vm2brick.git",
-            "https://github.com/pcuzner/gstatus.git",
-            "https://github.com/pcuzner/gluster-monitor.git",
-            "https://github.com/pcuzner/gluster-deploy.git",
-            "https://github.com/htaira/glubix.git",
-            "https://github.com/kshlm/gogfapi.git",
-            "https://github.com/kshlm/gant.git"
+            "https://github.com/purpleidea/puppet-gluster",
+            "https://github.com/pblcache/pblcache",
+            "https://github.com/spajus/libgfapi-ruby",
+            "https://github.com/joejulian/glusterfs-splitbrain",
+            "https://github.com/justinclift/glusterflow",
+            "https://github.com/pcuzner/vm2brick",
+            "https://github.com/pcuzner/gstatus",
+            "https://github.com/pcuzner/gluster-monitor",
+            "https://github.com/pcuzner/gluster-deploy",
+            "https://github.com/htaira/glubix",
+            "https://github.com/kshlm/gogfapi",
+            "https://github.com/kshlm/gant"
         ]
     }
 }
-
